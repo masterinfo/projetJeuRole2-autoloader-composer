@@ -11,7 +11,7 @@ require "vendor/autoload.php";
 
  use jeu\Dragon;
  use jeu\mage;
-
+// test github
 
 $magicien1 = new Mage(150, " merlin", 5,4 ,1000 );
 //$magicien1->afficheImage();
