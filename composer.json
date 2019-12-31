@@ -1,0 +1,14 @@
+{
+    "name": "wilfrid/projet-jeu-role2-autoloader-composer",
+    "description": "jeu de role",
+    "authors": [
+        {
+            "name": "masterinfo",
+            "email": "wilfrid_mo@hotmail.com"
+        }
+    ],
+    "require": {},
+     "autoload": {
+               "psr-4" : {"jeu\\" : "class/"}
+                  }
+}
